@@ -30,11 +30,11 @@
   -moz-box-sizing: content-box;
 }
 .sb2 {
-  font-family: "Lucida Grande", Verdana, Arial, "DejaVu Sans", sans-serif;
+  font-family: "Source Sans Pro", Verdana, Arial, "DejaVu Sans", sans-serif;
   font-weight: bold;
   color: white;
-  font-size: 10px;
-  line-height: 10px;
+  font-size: 14px;
+  line-height: 16px;
   margin: 10px 0;
   padding: 0 2px;
   -webkit-text-size-adjust: 100%;
@@ -1072,8 +1072,8 @@
 .sb2 .dropdown:after,
 .sb2 .number-dropdown:after {
   content: "▼";
-  font-size: 8px;
-  padding: 0 0 0 4px;
+  font-size: 14px;
+  padding: 0 0 4px 4px;
   border-radius: 2px;
   -webkit-border-radius: 2px;
   -moz-border-radius: 2px;
