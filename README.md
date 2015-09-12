@@ -1,4 +1,4 @@
-# Apunts a la traducció catalana
+# Apunts de la traducció catalana
 
 El filtre *pandoc-scratchblocks* és una extensió pel programa [pandoc](www.pandoc.org) que permet incloure blocs d'Scratch en format text dins 
 dels fitxers de les pràctiques. Durant la generació del codi html des dels fitxers .md (veure com a [Lession Formatter](https://github.com/codeclubcat/lesson_format)), els blocs de codi es transformen en imatges inserides dins de les pàgines html. Per exemple:
@@ -16,7 +16,7 @@ es tradueix en la imatge:
 
 # Traducció dels blocs
 
-Quan s'escriuen els blocs a dins de les pràctiques en format markdown, aquests han d'estar sempre encapçalats de la mateixa forma que si es tractés de codi en algun altre llenguatge. Així, tots els blocs estaran encapçalats per:
+Quan s'escriuen els blocs a dins de les pràctiques en format markdown, aquests han d'estar sempre encapçalats de la mateixa forma que si es tractés de codi en algun altre llenguatge. Així, un programa estarà encapçalat per:
 
 ```
 
@@ -86,7 +86,7 @@ La traducció de cada un dels blocs queda com s'indica a continuació. Els simbo
 "fons #"
 ```
 
-## Bloncs de sons:
+## Blocs de sons:
 
 ```
 "toca el so [... v]" 
