@@ -171,7 +171,7 @@ La traducció de cada un dels blocs queda com s'indica a continuació. Els simbo
 ```
 
 ## Blocs de sensors:
-
+```
 "tocant [...v] ?" 
 "tocant el color  [ ]?" 
 "color [ ] sobre [ ]?" 
