@@ -16,14 +16,16 @@ es tradueix en la imatge:
 
 # Traducció dels blocs
 
-Quan s'escriuen els blocs a dins de les pràctiques en format markdown, aquests han d'estar sempre encapçalats de la mateixa forma que si fós codi en algun altre llenguatge. Així, tots els blocs estaran encapçalats per:
+Quan s'escriuen els blocs a dins de les pràctiques en format markdown, aquests han d'estar sempre encapçalats de la mateixa forma que si es tractés de codi en algun altre llenguatge. Així, tots els blocs estaran encapçalats per:
 
 ```
-  ```scratch
-  ...
-  ...
-  ...
-  ```
+
+	```scratch
+		...
+		...
+		...
+	```
+  
 ```
 
 La traducció de cada un dels blocs queda com s'indica a continuació. Els simbols a dins de cada bloc indiquen:
